@@ -1,0 +1,1 @@
+{"experiment": "baseline_logistic_regression", "val_accuracy": 0.7988826815642458, "val_auc": 0.8519104084321476, "notes": "Default LogisticRegression on 7 base features, no extra engineering."}
